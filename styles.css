@@ -30,7 +30,7 @@ a:visited {
 
 
 input {
-	display: block;
+	display: inline-block;
 }
 
 img {
